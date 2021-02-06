@@ -4,10 +4,13 @@ Essa implementação é uma adaptação do codigo em Java apresentado no capitul
 
 # Como executar
 <ol>
-<li>Clone ou baixe o projeto em seu PC</li>
-<li>Abra na IDE que deseja</li>
-<li>Execute a classe Run</li>
-</ol>
+  <li>Clone ou baixe o projeto em seu PC 
+    <code> git clone https://github.com/RobertoMartins/aes-encrypter-java.git</code>
+  </li>
+  
+  <li>Abra na IDE que deseja</li>
+  <li>Execute a classe Run</li>
+  </ol>
 
 ## Arquivos
 <b>mykey: </b> Chave criada para criptografar. É possivel criar outra no inicio do programa ou escolhendo a opçao 1 do menu.<br/>
